@@ -4,4 +4,4 @@
 📫 How to reach me...aichola22@gmail.com.
 😄 Am Ichola Brice.
 ⚡ don't forget your when you ready for codding in java.
-Utilisez ce lien porur cloner le projet https://github.com/Ichola90/gestion_orchestres.git
+Utilisez ce lien pour cloner le projet https://github.com/Ichola90/gestion_orchestres.git
